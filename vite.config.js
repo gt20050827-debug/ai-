@@ -4,7 +4,7 @@ import { resolve } from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/aixinli/',
+  base: './',
   plugins: [vue()],
   resolve: {
     alias: {
